@@ -1,0 +1,29 @@
+p{
+    color: red;
+    font-family: Edu Australia;
+    font-size: 18px;
+    font-weight: 400;
+    font-style: oblique;
+    text-align: justify;
+    letter-spacing: 1px; 
+    /* text-transform: uppercase; */
+}
+
+h1{
+    text-align: center;
+}
+
+span{
+    text-decoration: underline;
+    color: green;
+}
+
+/* Cuando el tipo de letra tiene mas de una letra se deben poner comillas simples */
+/* Se pueden poner mas fuentes en caso de que la anterior no cargue; */
+/* En font-weight es lo mismo poner 700 que bold, pero bolder incrementa un escalon del valor que tiene por defecto */
+/* italic: letra cursiva, oblique igual inclina pero menos */
+/* text-align: Texto justificado a la derecha, left a la izquierda, center para centrar,justify: texto justificado */
+/* text-decoration: underline es el subrayado, overline "subraya" sobre las letras, line-through tacha el texto, se ´pueden mezclar*/
+/* line-height: SImilar al interlineado,igual se pueden poner porcentajes */
+/* letter-spacing: Espacio entre las letras, se pone en pixeles */
+/* text-transform: uppercase; Es para transforma todo el texto, en este caso en solo mayusculas, lowercase para minusculas */
